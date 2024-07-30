@@ -2,7 +2,12 @@ meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
             'XD':'Expresar una risa',
-            'WOW':'Sorpresa de algo'
+            'WOW':'Sorpresa de algo',
+            'MEME':'Expresa algo divertido y sorprendente',
+            'AFK':'Un jugador va a estar ausente en la aprtida',
+            'EZ':'Easy osea que estuvo facil contra algun rival',
+            
+            
             }
 
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")            
